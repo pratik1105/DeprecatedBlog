@@ -17,7 +17,11 @@ $(document).ready(function () {
     }
   })
   
-  if (window.location.pathname !== 'https://pratik1105.github.io' && window.location.pathname !== 'https://pratik1105.github.io/index.html') {
+  if (window.location.hash && window.location.hash == '#blog') {
+    $('.panel-cover').addClass('panel-cover--collapsed')
+  }
+  
+  if (window.location.pathname !== 'https://pratik1105.github.io/index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
   
