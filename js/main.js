@@ -23,7 +23,7 @@ $(document).ready(function () {
   
   if (window.location.pathname !== 'https://pratik1105.github.io/') {
     $('.panel-cover').addClass('panel-cover--collapsed')
-    window.alert(5+6)
+    window.alert(window.location.pathname)
   }
   
   $('.btn-mobile-menu').click(function () {
