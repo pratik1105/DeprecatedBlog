@@ -1,5 +1,5 @@
-@import url(https://pratik1105.github.io/css/uno.css);
-@import url(https://pratik1105.github.io/css/monokai.css);
+@import url(uno.css);
+@import url(monokai.css);
 
 /* Modifications */
 
