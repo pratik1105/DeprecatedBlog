@@ -1,8 +1,8 @@
 # Site settings
 title: Pratik Mishra
-description: 'Founder of Lost Leaf Studio, developer, consultant, cyclist, soccer fan, nature enthusiast and lover of beer.'
+description: 'Bibliophile | Mathematician | Sportsperson | Programmer | I binge watch TV shows and can sometimes rhyme words'
 url: 'https://pratik1105.github.io' 
-baseurl: '/'
+baseurl: '/home'
 google_analytics: #
 # disqus_shortname: 'your-disqus-name'
 
