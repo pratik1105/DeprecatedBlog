@@ -21,9 +21,8 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
   
-  if (window.location.pathname !== 'https://pratik1105.github.io/') {
+  if (window.location.pathname !== '/') {
     $('.panel-cover').addClass('panel-cover--collapsed')
-    window.alert(window.location.pathname)
   }
   
   $('.btn-mobile-menu').click(function () {
