@@ -6,7 +6,7 @@ image: false
 headerImage: false
 tag: 
 - Poetry
-- Ramblings
+- ramblings
 blog: true
 hidden: false
 description: "Yet Another shitty product of mine"
