@@ -21,7 +21,7 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
   
-  if (window.location.pathname !== 'https://pratik1105.github.io/index.html') {
+  if (window.location.pathname !== 'https://pratik1105.github.io') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
   
