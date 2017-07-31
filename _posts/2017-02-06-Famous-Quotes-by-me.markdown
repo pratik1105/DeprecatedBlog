@@ -22,4 +22,8 @@ Translation : The hardest part of any task is to put in the hardwork.
 
 <h3>Quote number 2</h3>  
 
-> "I believe we could be a lot of superlatives if only we relent on our pursuit of being the best."
+> "I believe we could be a lot of superlatives if only we relent on our pursuit of being the best."  
+
+<h3>Quote number 3</h3>  
+
+> "Evolution is nature's machine learning."
