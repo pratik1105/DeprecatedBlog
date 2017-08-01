@@ -26,4 +26,4 @@ Translation : The hardest part of any task is to put in the hardwork.
 
 <h3>Quote number 3</h3>  
 
-> "Evolution is nature's machine learning."
+> "Evolution is nature's machine learning."  
